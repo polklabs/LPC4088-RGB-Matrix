@@ -19,6 +19,8 @@ void checkGroup();
 
 void newGame();
 
+void checkLoss();
+
 void update();
 
 void moveDotLeft();
